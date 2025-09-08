@@ -1,0 +1,38 @@
+h1{
+  color: #6b0387;
+  font-family: Bookman;
+  letter-spacing: -5px;
+  text-align: center;
+  margin-left: 50px;
+  font-size: 60px;
+  }
+
+h2{
+  color: #6b0387;
+  font-family: Bookman;
+  letter-spacing: -3px;
+  font-size: 40px;
+  text-decoration-style: wavy;
+  text-decoration-line: underline;
+  text-transform: lowercase;
+  margin-left: 40px;
+}
+
+figure img{
+  height: 540px;
+  width: auto;
+  float: right;
+  margin-right: 20px;
+  border: 3px dotted #6b0387;
+  padding: 8px;
+}
+
+body{
+  background-color: #fae8ff;
+}
+
+article p{
+  max-width: 100%;
+  text-align: justified;
+  margin-left: 50px;
+}
