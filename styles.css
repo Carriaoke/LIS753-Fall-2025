@@ -19,7 +19,7 @@ h2{
 }
 
 figure img{
-  height: 540px;
+  height: 500px;
   width: auto;
   float: left;
   margin-right: 20px;
@@ -34,4 +34,5 @@ body{
 article p{
   max-width: 90%;
   text-align: justified;
+
 }
