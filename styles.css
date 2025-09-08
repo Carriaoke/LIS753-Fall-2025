@@ -8,18 +8,18 @@ h1{
   }
 
 h2{
-  color: #6b0387;
+  color: #1f8703;
   font-family: Bookman;
   letter-spacing: -3px;
   font-size: 40px;
   text-decoration-style: wavy;
   text-decoration-line: underline;
   text-transform: lowercase;
-  margin-right: 40px;
+  margin-left: 40px;
 }
 
 figure img{
-  height: 500px;
+  height: 540px;
   width: auto;
   float: left;
   margin-right: 20px;
@@ -32,7 +32,9 @@ body{
 }
 
 article p{
-  max-width: 90%;
+  color: ##7f8383;
+  font-family: Georgia;
+  max-width: 100%;
   text-align: justified;
-
+  max-width: 90%;
 }
