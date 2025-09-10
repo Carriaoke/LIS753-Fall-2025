@@ -15,6 +15,7 @@ h2{
   text-decoration-style: wavy;
   text-decoration-line: underline;
   text-transform: lowercase;
+  margin-left: 165px;
 }
 
 figure img{
@@ -40,6 +41,17 @@ article p{
   border: 5px #585856 dotted;
   padding: 40px;
   margin-right: 300px;
+}
+
+article p::first-letter{
+  color: #6b0387;
+  background-color: #fae8ff;
+  border-radius: 2px;
+  box-shadow: 3px 3px 0 #6b0387;
+  font-size: 200%;
+  padding: 6px 3px;
+  margin-right: 6px;
+  float: left;
 }
 
 article img{
