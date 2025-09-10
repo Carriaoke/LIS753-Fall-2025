@@ -34,12 +34,13 @@ body{
 article p{
   color: #585856;
   font-family: Georgia;
-  text-align: justified;
+  text-align: justify;
   background-color: #e8fce2;
   overflow: hidden;
   border: 5px #585856 dotted;
   padding: 40px;
   margin-right: 300px;
 }
+
 
 
