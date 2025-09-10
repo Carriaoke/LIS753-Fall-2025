@@ -3,8 +3,8 @@ h1{
   font-family: Bookman;
   letter-spacing: -5px;
   text-align: center;
-  margin-left: 50px;
   font-size: 60px;
+  overflow: hidden;
   }
 
 h2{
@@ -15,16 +15,16 @@ h2{
   text-decoration-style: wavy;
   text-decoration-line: underline;
   text-transform: lowercase;
-  margin-left: 40px;
 }
 
 figure img{
-  height: 540px;
+  height: 450px;
   width: auto;
   float: left;
   margin-right: 20px;
   border: 15px dotted #6b0387;
   padding: 8px;
+  overflow: hidden;
 }
 
 body{
@@ -32,10 +32,12 @@ body{
 }
 
 article p{
-  color: ##7f8383;
+  color: #585856;
   font-family: Georgia;
-  max-width: 100%;
   text-align: justified;
-  max-width: 90%;
+  background-color: #e8fce2;
+  overflow: hidden;
+  border: 5px #585856 dotted;
+  padding: 40px;
+  margin-right: 300px;
 }
-
