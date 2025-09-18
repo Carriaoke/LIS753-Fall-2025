@@ -60,6 +60,9 @@ article img{
   float: right;
   padding: 20px;
   margin-right: 100px;
+  margin-left: 20px;
+  margin-top: 20px;
+  border: 2.5px solid #6b0387;
   
 }
 
