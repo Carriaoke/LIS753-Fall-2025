@@ -78,6 +78,7 @@ nav ul li a{
   text-decoration: none;
   padding: 10px;
   text-transform: uppercase;
+  letter-spacing: -2px;
 }
 
 nav ul li{
@@ -92,4 +93,5 @@ nav ul li a:hover{
   text-decoration-thickness: 4px;
   text-decoration-color: #6b0387;
 }
+
 
