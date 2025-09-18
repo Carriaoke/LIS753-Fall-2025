@@ -58,7 +58,6 @@ article img{
   height: 400px;
   text-wrap: wrap;
   float: right;
-  padding: 20px;
   margin-right: 100px;
   margin-left: 20px;
   margin-top: 20px;
@@ -93,3 +92,4 @@ nav ul li a:hover{
   text-decoration-thickness: 4px;
   text-decoration-color: #6b0387;
 }
+
