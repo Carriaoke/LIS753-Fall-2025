@@ -62,3 +62,31 @@ article img{
   margin-right: 100px;
   
 }
+
+nav ul{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+
+nav ul li a{
+  color: #1f8703;
+  font-family: bookman;
+  text-decoration: none;
+  padding: 10px;
+  text-transform: uppercase;
+}
+
+nav ul li{
+  background-color: #e8fce2;
+  padding: 10px;
+  outline: #6b0387 dotted;
+}
+
+nav ul li a:hover{
+  text-decoration-line: line-through;
+  text-decoration-style: wavy;
+  text-decoration-thickness: 4px;
+  text-decoration-color: #6b0387;
+}
