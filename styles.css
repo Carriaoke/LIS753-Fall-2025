@@ -35,7 +35,7 @@ body{
 article p{
   color: #585856;
   font-family: Georgia;
-  text-align: justify;
+  text-align: left;
   background-color: #e8fce2;
   overflow: hidden;
   border: 5px #585856 dotted;
@@ -107,5 +107,6 @@ header a:hover{
   text-decoration-line: underline;
   text-decoration-style: double;
 }
+
 
 
